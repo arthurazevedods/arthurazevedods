@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Professor no Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bacharel em Ciência da Computação pela Universidade Federal do Maranhão (UFMA)<br>- Analista de Dados<br>- Desenvolvedor WEB</p>
+<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br>- Data Analyst<br>- Web Developer</p>
 
 ###
 
