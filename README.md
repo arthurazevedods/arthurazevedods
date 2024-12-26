@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br>👨‍💻 My portofolio are available at [arthurazevedods.vercel.app](arthurazevedods.vercel.app)<br>📝 I regularly write articles on [medium.com/@arthurazevedods](medium.com/@arthurazevedods)<br>- Data Analyst<br>f121 Web Developer</p>
+<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br>👨‍💻 My portofolio are available at [arthurazevedods.vercel.app](arthurazevedods.vercel.app)<br>📝 I regularly write articles on [medium.com/@arthurazevedods](medium.com/@arthurazevedods)<br>\f1c0 Data Analyst<br>\f121 Web Developer</p>
 
 ###
 
