@@ -1,8 +1,8 @@
-<h1 align="left">👋 Hi there, welcome to my Github profile</h1>
+<h1 align="center">Hi 👋, I'm Arthur Azevedo da Silva</h1>
 
 ###
 
-<p align="left">- My name is Arthur Silva and i'm a Web Developer, Data Analyst & Professor from MA, Brazil 🇧🇷</p>
+<h3 align="center">- A passionate  Web Developer, Data Analyst & Professor from  Brazil 🇧🇷</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br>- Data Analyst<br>- Web Developer</p>
+<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br>👨‍💻 My portofolio are available at [arthurazevedods.vercel.app](arthurazevedods.vercel.app)<br>📝 I regularly write articles on [medium.com/@arthurazevedods](medium.com/@arthurazevedods)<br>- Data Analyst<br>- Web Developer</p>
 
 ###
 
