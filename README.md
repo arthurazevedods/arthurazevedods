@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br>👨‍💻 My portofolio are available at [arthurazevedods.vercel.app](arthurazevedods.vercel.app)<br>📝 I regularly write articles on [medium.com/@arthurazevedods](medium.com/@arthurazevedods)<br>- Data Analyst & Web Developer </p>
+<p align="left">- Professor at Instituto de Educação, Ciência e Tecnologia do Maranhão (IEMA)<br>- Bachelor's degree in Computer Science from the Federal University of Maranhão (UFMA)<br><br>- Data Analyst & Web Developer </p>
 
 ###
 
@@ -71,9 +71,7 @@
   <a href="https://x.com/arthurazevds" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/arthurazevedods" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+ 
 </div>
 
 ###
