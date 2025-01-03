@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="ium.com/@arthurazevedods" target="_blank">
+  <a href="https://www.medium.com/@arthurazevedods" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://www.linkedin.com/in/arthur-silva-b84064135/" target="_blank">
